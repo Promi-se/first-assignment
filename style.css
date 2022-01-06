@@ -37,3 +37,33 @@ body{
     border-radius: 5px;
     background-image: linear-gradient(rgb(150, 46, 224), #ee7e3ec5);
 }
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+.font-size2{
+    font-size: 20px;
+}
+.second-section-items{
+    width: 25%;
+    margin-top: 0%;
+    margin-bottom: 5%;
+    padding: 10px 30px;
+    border-radius: 25px;
+}
+.second-section-items img{
+    width: 50%;
+}
+#vision{
+    background-color: lightyellow;
+    margin-left: 10%;
+}
+#mission{
+    background-color: lightcyan;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#goal{
+    background-color: lightgray;
+    margin-right: 10%;
+}
